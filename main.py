@@ -111,7 +111,7 @@ class Notepad:
         return True
 
     def show_about(self):
-        messagebox.showinfo("About", "Python Notepad\nCreated with Tkinter\n© 2026")
+        messagebox.showinfo("About", "Python Notepad\nCreated with Tkinter\n© 2026\nMade By Deadcode")
 
 if __name__ == "__main__":
     root = tk.Tk()
